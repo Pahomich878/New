@@ -1,7 +1,10 @@
-fun main(args: Array<String>) {
-    println("Hello World!")
-
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+fun main() {
+    println("Проверочный")
+    println("Проверочный два")
+    println("Проверочный три")
+    println("Проверочный четыре")
+    var col = 254
+    var dub = 1000
+    var sum = col + dub
+    println(sum)
 }
