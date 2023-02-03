@@ -1,4 +1,0 @@
-class Fun {
-    fun run () {}
-
-}

@@ -6,3 +6,8 @@ fun main() {
     var sum = col + dub
     println(sum)
 }
+
+class Fun {
+    fun run () {}
+
+}
